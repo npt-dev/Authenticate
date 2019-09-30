@@ -1,0 +1,18 @@
+{
+  "name": "Authenticate",
+  "authors": [
+    "npt-dev"
+  ],
+  "description": "AngularJS Authenticate with JWT",
+  "main": "index.html",
+  "license": "1.0.0.0",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "angular": "^1.7.8",
+    "angular-ui-router": "^1.0.22",
+    "angular-messages": "^1.7.8",
+    "ngstorage": "^0.3.11",
+    "angular-mocks": "^1.7.8"
+  }
+}
